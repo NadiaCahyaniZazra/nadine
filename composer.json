@@ -1,0 +1,19 @@
+{
+    "name": "nadine/labhello",
+    "description": "membuat library sederhana",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nadia Cahyani Zazra",
+            "email": "nadiazazra@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "nadine\\labhello\\": "src/"
+        }
+    },
+    "require": {}
+}
